@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="filter_title">Filter the Todos</string>
+    <string name="add">Add</string>
+    <string-array name="filter_option">
+        <item>All</item>
+        <item>Active</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
